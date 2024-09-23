@@ -1,4 +1,10 @@
-<img src="./yo.jpg" alt="imagen-perfil" width="200" height="200" style="border-radius: 50%; border: 2px solid black; display: block; margin: 20px auto;" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="./yo.jpg" alt="imagen-perfil" width="200" height="200" style="border-radius: 50%; border: 2px solid black;" />
+    </td>
+  </tr>
+</table>
 
 👋 Hi, I’m @christian-ormachea. I am a 23 years old argentinian 🇦🇷 Front-End Developer, currently studying Computer Science on the Universidad Nacional de Quilmes! 
 👀 I’m interested JavaScript, React and the Front-End Development in general, I am an enthusiast of the Linux operating system because I have been using it for more than 3 years  
